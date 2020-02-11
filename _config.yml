@@ -1,40 +1,68 @@
-# Site settings
-title:          main
-description:    "Personal website of Erbol"
-url:            "https://erbol.me"
+site: Ultra
+url: https://example.com
+title: Ultra
+description: Ultra - Super fast Jekyll theme, weighs under 2kb
+twitter:
+  username: yourusername
+  card: summary
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+permalink: pretty
 
-# Author
-author:
-  name:         Erbol Bekbaev
-  url:          https://erbol.me
-  email:        mail@erbol.me
+paginate:            1000
+paginate_path:       "/page:num/"
+baseurl:             ""
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-# Build settings
-markdown:       kramdown
-include:
-  - _pages
-
-# Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
+  sass_dir:          _sass
+  style:            :compressed
 
-# Gems
 plugins:
-  - jekyll-feed
   - jekyll-paginate
+  - jekyll-gist
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jekyll-sitemap  
 
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
-
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-# disqus:         jekyll-tale
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /projects/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
