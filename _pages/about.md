@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 ## Ultra - Super fast Jekyll theme 
