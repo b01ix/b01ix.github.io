@@ -3,19 +3,12 @@ layout: page
 title: about
 ---
 
-## Ultra - Super fast Jekyll theme 
+## Erbol Bekbaev
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+<img style="float: right; margin-right=40" src="./pictures/profile_small.jpg" width="100" hspace="20">
 
-### Key features
+Experienced Quantitative Analyst with a demonstrated history of working in the financial services industry. Skilled in Python, C#, C++, SQL, Data Analysis, and Statistical Modeling. Strong finance professional with a Master’s Degree focused in Mathematics and Computer Science. 
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+### Experience
+
+
