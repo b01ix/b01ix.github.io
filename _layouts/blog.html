@@ -8,8 +8,10 @@ title: notes
   <h2><a href="{{ site.baseurl }}{{ post.url }}">
     {{ post.title }}
   </a></h2>
-  <p>{{ post.summary }}</p>
-    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+  <p>
+    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    : {{ post.description }}
+  </p>
 </article>
 {% endfor %}
 
