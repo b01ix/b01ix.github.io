@@ -1,10 +1,9 @@
 site: Erbol
 url: https://erbol.me
-title: erbol
+title: erbol's safe space
 description: Personal website of Erbol
-twitter:
-  username: erbol
-  card: summary
+author: Erbol Bekbaev
+logo: /pictures/android-chrome-144x144.png
 
 permalink: pretty
 

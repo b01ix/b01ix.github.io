@@ -3,7 +3,7 @@ layout: page
 title: privacy
 ---
 
-## Privacy policy
+### Privacy policy
 
 Just like most websites, I also use cookies, which gives me the opportunity to improve my website (just kidding, it does not help me at all, and I really do not care about your data, do not use it, I do this just because of meaningless EU regulations).
 
