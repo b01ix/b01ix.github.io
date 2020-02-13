@@ -6,12 +6,18 @@ layout: compress
 <html lang="en">
   {% include head.html %}
   <body>
-    {% include masthead.html %}
-      <main id="main" role="main">
-        {{ content }}
-      </main>
-    <hr>
-    {% include footer.html %}
+    <div class="container">
+
+      {% include masthead.html %}
+        <main id="main" role="main">
+          {{ content }}
+        </main>
+      <hr>
+      {% include footer.html %}
+      
+    </div>
+
+    {% include cookie-consent.html %}
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}

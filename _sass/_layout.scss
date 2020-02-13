@@ -5,9 +5,8 @@ html {
   box-sizing: inherit;
 }
 body {
-    margin: 0 auto;
-    max-width: 50rem;
-    padding: 1rem;
+    margin: 0;
+    
 }
 
 strong, b, h1, h2, h3, h4 {
@@ -41,6 +40,12 @@ img[class=post] {
     margin: 0.5rem 0;
 }
 
+div[class=container] {
+    margin: 0 auto;
+    max-width: 50rem;
+    padding: 1rem;
+}
+
 nav {
     ul {
         list-style: none;
@@ -53,10 +58,23 @@ nav {
     }
     a {
         margin: 0.5rem;
-        text-transform: uppercase;
+        text-transform: lowercase;
     }
 }
 
 footer {
     margin: 2rem 0;
 }
+
+.btn {
+    font: bold;
+    background-color: #FFFFFF;
+    color: #333333;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+  }
