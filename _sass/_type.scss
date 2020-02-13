@@ -22,7 +22,8 @@ header p strong {
 
 a,a:visited {
   color: black;
-  font-weight: bold;
+  // font-weight: bold;
+  text-decoration: none;
 
   &:hover {
     color: dodgerblue;
@@ -34,6 +35,7 @@ a.active {
     padding: 0.5rem;
     color: white;
     font-weight: bold;
+    text-decoration: none;
 }
 
 blockquote {
@@ -51,6 +53,10 @@ blockquote {
     font-size: 90%;
     margin: 1rem 0 0 0;
   }
+}
+p.close {
+  margin: 0;
+  padding: 0;
 }
 
 dl {
