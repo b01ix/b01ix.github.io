@@ -11,11 +11,11 @@ Experienced Quantitative Analyst with a demonstrated history of working in the f
 
 *contacts: <mail@erbol.me> / [linkedin](https://www.linkedin.com/in/erbol-bekbaev-41872254/) / [github](https://github.com/b01ix)*
 <br><br>
-
 ***Experience***
 
 Will write everything later, maybe
 
+<br><br>
 ***Technical strengths***
 
 <table>
@@ -36,10 +36,10 @@ Will write everything later, maybe
 <br><br>
 ***Education***
 {:.close}
-- [Higher School of Economics, Moscow (2011-2013)](https://hse.ru/en/en/)
+- [Higher School of Economics, Moscow (2011-2013)](https://hse.ru/en/en/){:.nodecoration}
     <p class="close"><i>MSc in Applied Mathematics and Computer Science</i></p>
 {:.close}
-- [Moscow Institute of Physics and Technology, Moscow (2007-2011)](https://mipt.ru/english)
+- [Moscow Institute of Physics and Technology, Moscow (2007-2011)](https://mipt.ru/english){:.nodecoration}
     <p class="close"><i>BSc in Applied Physics and Mathematics</i></p>
 
 <br>

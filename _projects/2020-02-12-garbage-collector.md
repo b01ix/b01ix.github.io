@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Garbage collector robot
+title: Garbage collector
 description: Robot which automatically allocates and collects certain type of objects (garbage)
 summary: Based on raspberry pi and stm32
 category: robotics

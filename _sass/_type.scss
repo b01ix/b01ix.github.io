@@ -23,11 +23,14 @@ header p strong {
 a,a:visited {
   color: black;
   // font-weight: bold;
-  text-decoration: none;
 
   &:hover {
-    color: dodgerblue;
+    color: darkblue;
   }
+}
+
+a.nodecoration {
+  text-decoration: none;
 }
 
 a.active {
