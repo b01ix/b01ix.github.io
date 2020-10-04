@@ -5,7 +5,7 @@ title: privacy
 
 ### Privacy policy
 
-Just like most websites, I also use cookies, which gives me the opportunity to improve my website (just kidding, it does not help me at all, and I really do not care about your data, do not use it, I do this just because of meaningless EU regulations).
+Just like most websites, I also use cookies, which gives me the opportunity to improve my website (just kidding, it does not help me at all, and I really do not care about your data, do not use it, I do this just because of EU regulations).
 
 
 #### What are cookies?
@@ -13,7 +13,7 @@ For some reason, the British call them “biscuits.” But Internet cookies are 
 
 
 #### Which cookies do I use and why?
-I use Google Analytics to collect statistics, as it is important for me to know how people read me. Based on this data, I can understand the size of my audience, and what I am doing right or wrong.
+I may use Google Analytics to collect statistics, as it is important for me to know how people read me. Based on this data, I can understand the size of my audience, and what I am doing right or wrong.
 
 
 #### What should you do if you don't want to use cookies?
