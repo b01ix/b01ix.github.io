@@ -18,8 +18,8 @@ Will write everything later, maybe
 <br><br>
 ***Technical strengths***
 
-- *Programming languages:* Python (incl. pandas, numpy, sklearn, tensorflow, keras and etc.), C#, C/C++ (STL, some part of boost), SQL
-- *Tools:* PyCharm, jupyter, git, Docker, Visual Studio, Bloomberg terminal (incl. blpapi, EMSX)
+- *Programming languages:* Python (incl. pandas, numpy, sklearn, tensorflow, keras and etc.), C/C++ (STL, boost), C#, SQL
+- *Tools and libraries:* PyCharm, jupyter, git, Bloomberg terminal (incl. blpapi, EMSX api), FIX api
 
 <br><br>
 ***Education***
