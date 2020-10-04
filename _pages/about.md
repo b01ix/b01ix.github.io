@@ -18,20 +18,8 @@ Will write everything later, maybe
 <br><br>
 ***Technical strengths***
 
-<table>
- <tr>
-    <td class="minwidth"><i>Data Analysis</i></td>
-    <td class="minwidth">Econometrics, Statistics, Time Series Analysis, Machine Learning, Predictive modeling, Data visualization, Deep Learning</td>
- </tr>
- <tr>
-    <td class="minwidth"><i>Programming languages</i></td>
-    <td class="minwidth">Python (incl. pandas, numpy, sklearn, tensorflow, keras and etc.), C#, C/C++ (STL, some part of boost), SQL</td>
- </tr> 
- <tr>
-    <td class="minwidth"><i>Tools</i></td>
-    <td class="minwidth">PyCharm, jupyter, git, Docker, Visual Studio, Bloomberg terminal</td>
- </tr>
-</table>
+*Programming languages:* Python (incl. pandas, numpy, sklearn, tensorflow, keras and etc.), C#, C/C++ (STL, some part of boost), SQL
+*Tools:* PyCharm, jupyter, git, Docker, Visual Studio, Bloomberg terminal (incl. blpapi, EMSX)
 
 <br><br>
 ***Education***
