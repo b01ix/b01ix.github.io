@@ -13,4 +13,4 @@ You can notice main sections from the navigation menu.
 - ***about*** - just some information about me. So far it's just a copy of my linkedin. Maybe I will update that in the future.
 
 
-If you have any questions or comments, just shoot me an <a href="mailto:mail@erbol.me">email</a> (yeah, I am closer to boomers than to Z) or message me on telegram or instagram `@b01ix`.
+If you have any questions or comments, just shoot me an <a href="mailto:mail@erbol.me">email</a> (yeah, I am closer to boomers than to Z) or message me on telegram <a href="https://t.me/username">`@b01ix`</a>.
